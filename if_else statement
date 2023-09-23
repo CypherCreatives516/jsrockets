@@ -1,0 +1,10 @@
+var name1 = 'sajarah';
+var name2 = 'vistar';
+
+if (name1 == 'vistar'){
+alert('Correct');
+} else if (name2 == 'vistar'){
+    alert('Still Correct');
+} else {
+    alert ('your answer is wrong!');
+}
